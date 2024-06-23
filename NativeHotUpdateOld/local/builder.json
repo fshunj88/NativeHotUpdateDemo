@@ -1,0 +1,22 @@
+{
+  "platform": "ios",
+  "actualPlatform": "ios",
+  "template": "default",
+  "buildPath": "build",
+  "debug": true,
+  "sourceMaps": true,
+  "embedWebDebugger": true,
+  "previewWidth": "1280",
+  "previewHeight": "720",
+  "useDebugKeystore": true,
+  "keystorePath": "",
+  "keystorePassword": "",
+  "keystoreAlias": "",
+  "keystoreAliasPassword": "",
+  "apiLevel": "android-30",
+  "appABIs": [
+    "arm64-v8a",
+    "armeabi-v7a"
+  ],
+  "vsVersion": "auto"
+}

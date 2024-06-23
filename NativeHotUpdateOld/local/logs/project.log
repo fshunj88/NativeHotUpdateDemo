@@ -1,0 +1,78 @@
+2024-06-23T14:35:45.877Z - normal: Load ~/.CocosCreator/settings.json
+2024-06-23T14:35:45.960Z - normal: Initializing Asset Database
+2024-06-23T14:35:45.964Z - normal: checking language setting...
+2024-06-23T14:35:45.964Z - normal: Language: zh
+2024-06-23T14:35:46.567Z - success: preview server running at http://localhost:7456
+2024-06-23T14:35:46.581Z - success: protocol editor-framework registered
+2024-06-23T14:35:46.581Z - success: protocol app registered
+2024-06-23T14:35:46.581Z - success: protocol theme registered
+2024-06-23T14:35:46.581Z - success: protocol packages registered
+2024-06-23T14:35:46.581Z - success: protocol uuid registerred
+2024-06-23T14:35:46.582Z - success: protocol db registerred
+2024-06-23T14:35:46.582Z - success: protocol thumbnail registerred
+2024-06-23T14:35:46.582Z - success: protocol unpack registerred
+2024-06-23T14:35:46.582Z - success: protocol disable-commonjs registerred
+2024-06-23T14:35:47.123Z - normal: connected!
+2024-06-23T14:35:47.124Z - normal: Check project /Users/mac/Desktop/All/Cocos/cocos_re_geng/NativeHotUpdateOld
+2024-06-23T14:35:47.126Z - normal: Initializing project /Users/mac/Desktop/All/Cocos/cocos_re_geng/NativeHotUpdateOld
+2024-06-23T14:35:47.166Z - success: adapters loaded
+2024-06-23T14:35:47.171Z - success: asset-db-debugger loaded
+2024-06-23T14:35:47.267Z - success: fb-audience-network loaded
+2024-06-23T14:35:47.335Z - success: fb-live-stream loaded
+2024-06-23T14:35:47.340Z - success: google-play-instant loaded
+2024-06-23T14:35:47.349Z - success: huawei-runtime loaded
+2024-06-23T14:35:47.353Z - success: jkw-adapter loaded
+2024-06-23T14:35:47.354Z - success: jsb-adapter loaded
+2024-06-23T14:35:47.362Z - success: oppo-runtime loaded
+2024-06-23T14:35:47.374Z - success: package-manager loaded
+2024-06-23T14:35:47.376Z - success: qtt-adapter loaded
+2024-06-23T14:35:47.380Z - success: runtime-dev-tools loaded
+2024-06-23T14:35:47.391Z - success: sdkbox loaded
+2024-06-23T14:35:47.397Z - success: ui-kit-preview-extra loaded
+2024-06-23T14:35:47.404Z - success: ui-kit-preview loaded
+2024-06-23T14:35:47.412Z - success: vivo-runtime loaded
+2024-06-23T14:35:47.416Z - success: alipay-minigame loaded
+2024-06-23T14:35:47.514Z - success: assets loaded
+2024-06-23T14:35:47.519Z - success: baidugame-opendata loaded
+2024-06-23T14:35:47.523Z - success: baidugame loaded
+2024-06-23T14:35:47.530Z - success: builder loaded
+2024-06-23T14:35:47.761Z - success: cocos-services loaded
+2024-06-23T14:35:47.766Z - success: console loaded
+2024-06-23T14:35:47.778Z - success: fb-instant-games loaded
+2024-06-23T14:35:47.783Z - success: game-window loaded
+2024-06-23T14:35:47.785Z - success: google-instant-games loaded
+2024-06-23T14:35:47.791Z - success: hierarchy loaded
+2024-06-23T14:35:47.795Z - success: inspector loaded
+2024-06-23T14:35:48.199Z - success: cpk-publish loaded
+2024-06-23T14:35:48.202Z - success: keystore loaded
+2024-06-23T14:35:48.212Z - success: node-library loaded
+2024-06-23T14:35:48.215Z - success: open-recent-items loaded
+2024-06-23T14:35:48.220Z - success: package-asset loaded
+2024-06-23T14:35:48.229Z - success: preferences loaded
+2024-06-23T14:35:48.234Z - success: project-exporter loaded
+2024-06-23T14:35:48.238Z - success: project-importer loaded
+2024-06-23T14:35:48.242Z - success: project-settings loaded
+2024-06-23T14:35:48.257Z - success: qtt-runtime loaded
+2024-06-23T14:35:48.262Z - success: scene loaded
+2024-06-23T14:35:48.263Z - success: simulator-debugger loaded
+2024-06-23T14:35:48.265Z - success: sprite-editor loaded
+2024-06-23T14:35:48.270Z - success: store loaded
+2024-06-23T14:35:48.276Z - success: timeline loaded
+2024-06-23T14:35:48.279Z - success: wechatgame-opendata loaded
+2024-06-23T14:35:48.284Z - success: wechatgame loaded
+2024-06-23T14:35:48.289Z - success: xiaomi-runtime loaded
+2024-06-23T14:35:48.321Z - success: ccc-references-finder loaded
+2024-06-23T14:35:48.386Z - success: im-plugin loaded
+2024-06-23T14:35:48.389Z - success: hot-update loaded
+2024-06-23T14:35:50.034Z - normal: 引擎编译中，首次编译需要较长时间，请稍等。
+2024-06-23T14:35:50.753Z - info: Cocos Service load base data!
+2024-06-23T14:35:53.531Z - normal: Initializing Cocos2d
+2024-06-23T14:35:53.848Z - normal: Initializing engine extends
+2024-06-23T14:35:56.736Z - normal: Loading packages
+2024-06-23T14:35:56.746Z - normal: Watching packages
+2024-06-23T14:35:56.867Z - normal: Run Application
+2024-06-23T14:41:30.871Z - error: TypeError: Cannot read property 'target' of null
+    at HTMLElement._applyPopup (/Applications/Cocos/Creator/2.2.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/panel/index.js:1:8411)
+    at eval (/Applications/Cocos/Creator/2.2.2/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/inspector/panel/index.js:1:8345)
+    at EventEmitter.<anonymous> (/Applications/Cocos/Creator/2.2.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:3788)
+    at EventEmitter.emit (events.js:194:13)

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../assets/Script/assets/Script/NoUse.js"],"names":["console","log"],"mappings":";;;;;;AAAIA,QAAQC,GAAR,CAAY,OAAZ","file":"NoUse.js","sourceRoot":"../../../../assets/Script","sourcesContent":["    console.log(\"noUse\");\r\n"]}

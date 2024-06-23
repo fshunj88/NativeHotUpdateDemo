@@ -1,0 +1,36 @@
+{
+  "compilerOptions": {
+    "module": "amd",
+    "lib": [
+      "dom",
+      "es5",
+      "es2015.promise"
+    ],
+    "target": "es5",
+    "allowJs": true,
+    "alwaysStrict": true,
+    // "declaration": true,
+    "experimentalDecorators": true,
+    "skipLibCheck": true,
+    // "outDir":"./assets/Script/src/",
+    "outFile": "../assets/Script/src/GameLogic.js",
+    "removeComments": true,
+    "types": []
+  },
+  "exclude": [
+    "node_modules",
+    "library",
+    "local",
+    "temp",
+    "build",
+    "settings",
+    "assets",
+  ]
+  /*
+  "include": [
+    "src",
+    "lib",
+    "device_modules" 
+  ]
+  */
+}
